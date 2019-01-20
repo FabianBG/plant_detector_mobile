@@ -1,0 +1,232 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mbastidas/code/Detector/gradleBuild/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "2",
+                        "startOffsets": "214",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "195"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mbastidas/code/Detector/gradleBuild/intermediates/res/merged/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,67",
+                        "endOffsets": "118,186"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "191",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mbastidas/code/Detector/gradleBuild/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "717,660",
+                        "endColumns": "71,56",
+                        "endOffsets": "784,712"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "650,722",
+                        "endColumns": "71,56",
+                        "endOffsets": "717,774"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1047",
+                        "endColumns": "94",
+                        "endOffsets": "1137"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "779,862,912",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "857,907,991"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,18,19,20,21,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "996,1142,1202,1255,1282,1478",
+                        "endLines": "16,18,19,20,24,30",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1042,1197,1250,1277,1473,1751"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mbastidas/code/Detector/gradleBuild/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values-v11/template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "663",
+                        "endColumns": "65",
+                        "endOffsets": "724"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "779",
+                        "endColumns": "64",
+                        "endOffsets": "839"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "7,19,11",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "210,763,340",
+                        "endLines": "9,21,17",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "336,927,759"
+                    },
+                    "to": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,186,355",
+                        "endLines": "4,7,14",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "181,350,774"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mbastidas/code/Detector/gradleBuild/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values-v21/base-template-styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "690",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "766"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "131"
+                    }
+                }
+            ]
+        }
+    ]
+}

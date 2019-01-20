@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Jan 16 22:14:45 ECT 2019
+1.base=/home/mbastidas/code/Detector/gradleBuild/intermediates/assets/debug
+2.path=BUILD
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/home/mbastidas/code/Detector/gradleBuild/intermediates/assets/debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=ssd_mobilnet_30k.pb
+count=4
+1.set=ASSET
+0.path=data.txt
+3.base=/home/mbastidas/code/Detector/gradleBuild/intermediates/assets/debug
+0.set=ASSET
+0.base=/home/mbastidas/code/Detector/gradleBuild/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=labels.txt

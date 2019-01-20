@@ -1,0 +1,4 @@
+#Mon Jan 14 21:46:29 ECT 2019
+base.0=/home/mbastidas/code/Detector/gradleBuild/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

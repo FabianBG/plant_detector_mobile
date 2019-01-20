@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mbastidas/code/Detector/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "717,660",
+                        "endColumns": "71,56",
+                        "endOffsets": "784,712"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "650,722",
+                        "endColumns": "71,56",
+                        "endOffsets": "717,774"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1047",
+                        "endColumns": "94",
+                        "endOffsets": "1137"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "779,862,912",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "857,907,991"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "/home/mbastidas/code/Detector/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,18,19,20,21,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "996,1142,1202,1255,1282,1478",
+                        "endLines": "16,18,19,20,24,30",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1042,1197,1250,1277,1473,1751"
+                    }
+                }
+            ]
+        }
+    ]
+}
